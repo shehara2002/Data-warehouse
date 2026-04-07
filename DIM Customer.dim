@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Review.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Review.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Seller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\DIM Seller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\ecommerce_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce WH.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8BA41677-3B66-6E07-000C-5DEDA9188AB7}|ecommerce_Cube\\ecommerce_Cube.dwproj|solutionrelative:ecommerce_Cube\\ecommerce WH.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIM Review.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Review.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Review.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Review.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Review.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T06:46:28.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DIM Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Product.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Product.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Product.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:04:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIM Payment.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Payment.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Payment.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Payment.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Payment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:07:45.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DIM Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Date.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Date.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Date.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T05:53:39.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DIM Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Customer.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Customer.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Customer.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:07:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DIM Seller.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Seller.dim",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\DIM Seller.dim",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\DIM Seller.dim [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\DIM Seller.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T06:48:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ecommerce_Cube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce_Cube.cube",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\ecommerce_Cube.cube",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce_Cube.cube [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\ecommerce_Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T05:51:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ecommerce WH.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce WH.dsv",
+              "RelativeDocumentMoniker": "ecommerce_Cube\\ecommerce WH.dsv",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ecommerce_Cube\\ecommerce_Cube\\ecommerce WH.dsv [Design]",
+              "RelativeToolTip": "ecommerce_Cube\\ecommerce WH.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T05:42:37.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
